@@ -2,7 +2,6 @@ import Head from "next/head";
 import { useEffect, useRef, useState } from "react";
 import Meta from "../meta.json";
 import { AnimatePresence, AnimateSharedLayout, motion } from "framer-motion";
-import { GlobalHotKeys } from "react-hotkeys";
 
 const IconInfoPanel = (props) => {
   const findSimilar = (icon) => {
@@ -467,7 +466,7 @@ export default function Home() {
           <a
             className="font-semibold text-blue-600 text-base cursor-pointer"
             href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
-              "Check out IKONO by Will Kelly 😮"
+              "Check out IKONO by @WillKelly__ 😮"
             )}&url=${encodeURIComponent("https://ikono.will-kelly.co.uk")}`}
           >
             Share
