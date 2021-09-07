@@ -336,6 +336,7 @@ export default function Home() {
             <meta name="twitter:card" content="app" />
             <meta name="twitter:site" content="@WillKelly__" />
             <meta name="twitter:title" content="IKONO" />
+            <meta name="twitter:text:title" content="IKONO" />
             <meta
               name="twitter:description"
               content="Free SVG icon pack with MIT license"
