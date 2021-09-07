@@ -319,18 +319,18 @@ export default function Home() {
       <AnimateSharedLayout>
         <div>
           <Head>
-            <title>ICONO</title>
+            <title>IKONO</title>
             <link rel="icon" href="/favicon.ico" />
           </Head>
 
           <header className="flex items-center justify-between px-5 pt-10 sm:px-16 sm:pt-14">
             <h1 className="text-blue-600 font-display font-bold text-xl">
-              ICONO
+              IKONO
             </h1>
             <nav className="font-sans text-sm flex font-semibold tracking-tighter">
-              <p className="pr-5">VSCode</p>
+              {/* <p className="pr-5">VSCode</p> */}
               <p className="px-5">React</p>
-              <p className="pl-5">Support Us</p>
+              {/* <p className="pl-5">Support Us</p> */}
             </nav>
           </header>
 
