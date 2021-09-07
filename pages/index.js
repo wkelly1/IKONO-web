@@ -333,7 +333,7 @@ export default function Home() {
               property="og:image"
               content="https://ikono.will-kelly.co.uk/banner.png"
             />
-            <meta name="twitter:card" content="app" />
+            <meta name="twitter:card" content="summary" />
             <meta name="twitter:site" content="@WillKelly__" />
             <meta name="twitter:title" content="IKONO" />
             <meta name="twitter:text:title" content="IKONO" />
