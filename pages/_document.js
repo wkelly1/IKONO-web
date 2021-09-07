@@ -22,16 +22,16 @@ class MyDocument extends Document {
           />
           <link rel="manifest" href="/manifest.json" />
 
-          <Meta name="twitter:card" content="app" />
-          <Meta name="twitter:site" content="@WillKelly__" />
-          <Meta
+          <meta name="twitter:card" content="app" />
+          <meta name="twitter:site" content="@WillKelly__" />
+          <meta
             name="twitter:description"
             content="Free SVG icon pack with MIT license"
           />
-          <Meta name="twitter:app:name:iphone" content="IKONO" />
-          <Meta name="twitter:app:name:ipad" content="IKONO" />
-          <Meta name="twitter:app:name:googleplay" content="IKONO" />
-          <Meta name="twitter:image" content="/banner.png" />
+          <meta name="twitter:app:name:iphone" content="IKONO" />
+          <meta name="twitter:app:name:ipad" content="IKONO" />
+          <meta name="twitter:app:name:googleplay" content="IKONO" />
+          <meta name="twitter:image" content="/banner.png" />
         </Head>
         <body>
           <Main />
