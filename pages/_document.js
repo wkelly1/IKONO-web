@@ -31,7 +31,10 @@ class MyDocument extends Document {
           <meta name="twitter:app:name:iphone" content="IKONO" />
           <meta name="twitter:app:name:ipad" content="IKONO" />
           <meta name="twitter:app:name:googleplay" content="IKONO" />
-          <meta name="twitter:image" content="/banner.png" />
+          <meta
+            name="twitter:image"
+            content="https://ikono.will-kelly.co.uk/banner.png"
+          />
         </Head>
         <body>
           <Main />
