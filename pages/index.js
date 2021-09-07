@@ -466,7 +466,7 @@ export default function Home() {
           <a
             className="font-semibold text-blue-600 text-base cursor-pointer"
             href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
-              "Check out IKONO by @WillKelly__ 😮"
+              "Check out this icon pack IKONO by @WillKelly__ 😮"
             )}&url=${encodeURIComponent("https://ikono.will-kelly.co.uk")}`}
           >
             Share
