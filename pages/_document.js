@@ -28,6 +28,7 @@ class MyDocument extends Document {
             name="twitter:description"
             content="Free SVG icon pack with MIT license"
           />
+          <meta name="twitter:title" content="IKONO" />
           <meta name="twitter:app:name:iphone" content="IKONO" />
           <meta name="twitter:app:name:ipad" content="IKONO" />
           <meta name="twitter:app:name:googleplay" content="IKONO" />
