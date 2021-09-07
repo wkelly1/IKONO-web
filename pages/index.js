@@ -57,10 +57,7 @@ const IconInfoPanel = (props) => {
               {props.selected}
             </h3>
             <div className="flex">
-              <a
-                href={`icons/${props.selected}/${props.selected}.png`}
-                download
-              >
+              <a href={`icons/png/${props.selected}.png`} download>
                 <svg
                   height="24"
                   width="24"
