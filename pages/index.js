@@ -356,7 +356,13 @@ export default function Home() {
             </h1>
             <nav className="font-sans text-sm flex font-semibold tracking-tighter">
               {/* <p className="pr-5">VSCode</p> */}
-              <p className="px-5">React</p>
+              <a
+                href="https://github.com/wkelly1/IKONO"
+                alt="IKONO github"
+                className="px-5"
+              >
+                React
+              </a>
               {/* <p className="pl-5">Support Us</p> */}
             </nav>
           </header>
