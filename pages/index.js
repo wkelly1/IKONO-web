@@ -486,6 +486,7 @@ export default function Home() {
             <img
               className=" mr-3 w-8 h-8 rounded-full"
               src="/images/profile_picture.jpg"
+              alt="Will Kelly profile picture"
             />
             <div className="text-sm tracking-tighter leading-3">
               <p className="font-medium text-blue-500">Created by</p>

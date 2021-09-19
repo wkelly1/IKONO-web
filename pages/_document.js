@@ -26,6 +26,10 @@ class MyDocument extends Document {
           />
           <link rel="manifest" href="/manifest.json" />
           <title>IKONO</title>
+          <meta
+            name="description"
+            content="A large collection of high quality SVG icons with an MIT license"
+          />
         </Head>
         <body>
           <Main />

@@ -1,7 +1,7 @@
 {
   "short_name": "IKONO",
   "name": "IKONO",
-  "description": "Free icon pack",
+  "description": "A large collection of high quality SVG icons with an MIT license",
   "icons": [
     {
       "src": "/app_icons4/icon-36x36.png",
@@ -17,7 +17,7 @@
       "src": "/app_icons4/icon-72x72.png",
       "type": "image/png",
       "sizes": "72x72"
-    }, 
+    },
     {
       "src": "/app_icons4/icon-96x96.png",
       "type": "image/png",
