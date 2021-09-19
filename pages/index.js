@@ -482,10 +482,14 @@ export default function Home() {
           layout
           className="mt-10 bg-blue-200 h-32 w-full px-5 py-10 sm:px-16 sm:py-14 flex items-center justify-between"
         >
-          <div className="flex items-center">
+          <div
+            className="flex items-center"
+            role="img"
+            aria-label="Will Kelly profile picture"
+          >
             <img
               className=" mr-3 w-8 h-8 rounded-full"
-              src="/images/profile_picture.jpg"
+              src="/images/profile_picture.webp"
               alt="Will Kelly profile picture"
             />
             <div className="text-sm tracking-tighter leading-3">
