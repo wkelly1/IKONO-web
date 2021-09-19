@@ -348,6 +348,12 @@ export default function Home() {
               name="twitter:image"
               content="https://ikono.will-kelly.co.uk/banner.png"
             />
+
+            <link
+              rel="apple-touch-icon"
+              href="/app_icons/apple-touch-icon-180x180.png"
+              sizes="180x180"
+            />
           </Head>
 
           <header className="flex items-center justify-between px-5 pt-10 sm:px-16 sm:pt-14">

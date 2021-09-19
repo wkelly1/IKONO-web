@@ -30,6 +30,7 @@ class MyDocument extends Document {
             name="description"
             content="A large collection of high quality SVG icons with an MIT license"
           />
+          <meta name="theme-color" content="#2563EB" />
         </Head>
         <body>
           <Main />
