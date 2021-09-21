@@ -1,7 +1,7 @@
 {
-  "short_name": "ICONO",
-  "name": "ICONO",
-  "description": "Free icon pack",
+  "short_name": "IKONO",
+  "name": "IKONO",
+  "description": "A large collection of high quality SVG icons with an MIT license",
   "icons": [
     {
       "src": "/app_icons/icon-36x36.png",
@@ -49,5 +49,5 @@
   "background_color": "#FFFFFF",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#000000"
+  "theme_color": "#2563EB"
 }

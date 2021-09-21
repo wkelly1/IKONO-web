@@ -8,7 +8,7 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
@@ -26,6 +26,11 @@ class MyDocument extends Document {
           />
           <link rel="manifest" href="/manifest.json" />
           <title>IKONO</title>
+          <meta
+            name="description"
+            content="A large collection of high quality SVG icons with an MIT license"
+          />
+          <meta name="theme-color" content="#2563EB" />
         </Head>
         <body>
           <Main />

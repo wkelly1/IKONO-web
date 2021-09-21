@@ -348,6 +348,12 @@ export default function Home() {
               name="twitter:image"
               content="https://ikono.will-kelly.co.uk/banner.png"
             />
+
+            <link
+              rel="apple-touch-icon"
+              href="/app_icons/apple-touch-icon-180x180.png"
+              sizes="180x180"
+            />
           </Head>
 
           <header className="flex items-center justify-between px-5 pt-10 sm:px-16 sm:pt-14">
@@ -482,10 +488,15 @@ export default function Home() {
           layout
           className="mt-10 bg-blue-200 h-32 w-full px-5 py-10 sm:px-16 sm:py-14 flex items-center justify-between"
         >
-          <div className="flex items-center">
+          <div
+            className="flex items-center"
+            role="img"
+            aria-label="Will Kelly profile picture"
+          >
             <img
               className=" mr-3 w-8 h-8 rounded-full"
-              src="/images/profile_picture.jpg"
+              src="/images/profile_picture.webp"
+              alt="Will Kelly profile picture"
             />
             <div className="text-sm tracking-tighter leading-3">
               <p className="font-medium text-blue-500">Created by</p>
