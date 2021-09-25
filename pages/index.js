@@ -321,7 +321,7 @@ export default function Home() {
             <title>IKONO</title>
             <link rel="icon" href="/favicon.ico" />
 
-            <meta name="og:url" contant="https://ikono.will-kelly.co.uk" />
+            <meta name="og:url" content="https://ikono.will-kelly.co.uk" />
             <meta property="og:type" content="website" />
             <meta property="og:site_name" content="IKONO" />
             <meta
